@@ -1,5 +1,4 @@
-# ProjectX
-A project work to build any website of my choice 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
