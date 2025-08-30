@@ -8,6 +8,8 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+        <img src="https://your-image![IMG-20250824-WA0233](https://github.com/user-attachments/assets/9c87c1b8-fa22-4e7a-8075-761ea4d1d96b)
+
         
         .font-playfair { font-family: 'Playfair Display', serif; }
         .font-inter { font-family: 'Inter', sans-serif; }
@@ -701,4 +703,6 @@
         });
     </script>
 </body>
+<img src="https://your-image![IMG-20250824-WA0233](https://github.com/user-attachments/assets/84257683-9303-4631-b957-4c9abaa36dc5)
+
 </html>
